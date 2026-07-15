@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Your_Name - Data Science Portfolio"
+  title: "Spencer Hoke - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
   repo-url: https://github.com/Spencer-Hoke/Spencer-Hoke.github.io
@@ -10,10 +10,10 @@ website:
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Spencer Hoke"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: www.linkedin.com/in/spencer-hoke-73058a422
 
   navbar:
     background: primary
