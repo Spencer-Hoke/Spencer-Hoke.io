@@ -1,10 +1,12 @@
 ---
 title: "about me"
 subtitle: "my data science portfolio"
-# use quarto markdown to 
+
+im not exactly sure what to put here as im early in my data science career.
+
+as a place holder - I chose data science as a career because when I was younger I really liked youtube data which is pretty weird for a middle schooler I guess. I guess I didnt think much of it for the next 6-7 years until I decided I wanted to go to college. I was going to do accounting but I listened to this podcast talking about the data that they gather from us and how it created a new class system alltogether and I was like wow data is going to be so important, its a real make or break for society and I would rather be a part of that rather than stay oblivious. lucky for me I find data intersting enough to make it a career.
+
 ---
 
-# Title 1 Header
-## Title 2 Header
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+
