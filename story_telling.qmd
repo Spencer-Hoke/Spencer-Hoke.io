@@ -8,5 +8,9 @@ as a place holder - I chose data science as a career because when I was younger 
 
 ---
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> b1a29502b15420136558870d233dc3f95e48b2e1
 
 
